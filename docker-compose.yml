@@ -1,0 +1,37 @@
+services:
+  postgres:
+    image: postgres:13
+    container_name: postgres-container
+    environment: 
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 567234
+      POSTGRES_DB: postgres
+    volumes: 
+      - postgres_data:/var/lib/postgresql/data
+  python-app:
+    build: .
+    depends_on:
+      - postgres
+      - mongo
+    networks:
+      - mynetwork
+    environment:
+      DATABASE_URL: postgres://postgres:567234@postgres:5432/postgres
+      MONGO_HOST: mongo
+
+  mongo:
+    image: mongo:latest
+    container_name: mongodb-container
+    ports:
+      - "27017:27017"
+    networks:
+      - mynetwork
+    volumes:
+      - mongo_data:/data/db
+networks:
+  mynetwork:
+    driver: bridge
+
+volumes:
+  mongo_data:
+  postgres_data:

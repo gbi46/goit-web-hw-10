@@ -1,0 +1,35 @@
+{% extends 'quotes/base.html' %}
+{% block content %}
+<h2>Quotes for Tag: "{{ tag.name }}"</h2>
+
+    <div>
+        {% for quote in page_obj %}
+            <div>
+                <p>{{ quote.quote }}</p>
+                <p><strong>Author:</strong> {{ quote.author.fullname }}</p>
+                <p><strong>Tags:</strong>
+                    {% for tag in quote.tags.all %}
+                        <a href="{% url 'quotes:quotes_by_tag_view' tag.name %}">{{ tag.name }}</a>{% if not forloop.last %}, {% endif %}
+                    {% endfor %}
+                </p>
+            </div>
+        {% empty %}
+            <p>No quotes for the tag {{ tag.name }}.</p>
+        {% endfor %}
+    </div>
+
+    <div>
+        <span>Page {{ page_obj.number }} from {{ page_obj.paginator.num_pages }}</span>
+        <div>
+            {% if page_obj.has_previous %}
+                <a href="?page=1">&laquo; First</a>
+                <a href="?page={{ page_obj.previous_page_number }}">Back</a>
+            {% endif %}
+
+            {% if page_obj.has_next %}
+                <a href="?page={{ page_obj.next_page_number }}">Next</a>
+                <a href="?page={{ page_obj.paginator.num_pages }}">Last page &raquo;</a>
+            {% endif %}
+        </div>
+    </div>
+{% endblock %}

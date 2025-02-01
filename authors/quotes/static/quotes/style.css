@@ -1,0 +1,114 @@
+.author-details {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px auto;
+    max-width: 600px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.author-details h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.author-details p {
+    margin: 10px 0;
+    color: #555;
+}
+
+.author-details strong {
+    color: #000;
+}
+
+ul#actions-links {
+    display: ruby;
+    list-style-type: none;
+}
+ul#actions-links li {
+    background-color: cyan;
+    border-radius: 10px;
+    list-style-type: none;
+    padding: 5px;
+}
+.alert-error, .errorlist {
+    color: crimson;
+}
+.alert-success {
+    color: green;
+}
+.disabled {
+    color: #333333;
+    cursor: not-allowed;
+}
+
+.pager {
+    font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.pager {
+    padding-left: 0;
+    margin: 22px 0;
+    list-style: none;
+    text-align: center;
+}
+
+.pager li {
+    display: inline;
+}
+
+.pager li>a, .pager li>span {
+    display: inline-block;
+    padding: 5px 14px;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 15px;
+}
+
+.pager .next>a, .pager .next>span {
+    float: right;
+}
+
+.quote {
+    padding: 10px;
+    margin-bottom: 30px;
+    border: 1px solid #333333;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px #333333;
+}
+
+.quote small.author {
+    font-weight: bold;
+    color: #3677E8;
+}
+
+.quote span.text {
+    display: block;
+    margin-bottom: 5px;
+    font-size: large;
+    font-style: italic;
+}
+
+.quote .tags {
+    margin-top: 10px;
+}
+
+.tag {
+    padding: 2px 5px;
+    border-radius: 5px;
+    color: white;
+    font-size: small;
+    background-color: #7CA3E6;
+}
+
+.tag-item {
+    display: block;
+    margin: 4px;
+}
+
+ul.pager {
+    margin-bottom: 100px;
+}

@@ -1,0 +1,7 @@
+{% extends 'quotes/base.html' %}
+{% block content %}
+<form method="post">
+    {% csrf_token %}
+    <button type="submit" name="action" value="submit">Parse</button>
+</form>
+{% endblock %}

@@ -1,0 +1,75 @@
+{% extends 'quotes/base.html' %}
+{% load extract %}
+{% block content %}
+
+<div class="row">
+    {% if messages %}
+        <div class="messages">
+            {% for message in messages %}
+                <div class="alert alert-{{ message.tags }}">
+                    {{ message }}
+                </div>
+            {% endfor %}
+        </div>
+    {% endif %}
+    <div class="col-md-8">
+    <a href="/parse-website">Parse website</a>
+    <h2>
+        {% if use_mongo %}
+            Data from mongo
+        {% else %}
+            Data from postgres
+        {% endif %}
+    </h2>
+    {% for quote in quotes %}
+    <div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+        <span class="text" itemprop="text">“{{quote.quote}}”</span>
+        <span>by <small class="author" itemprop="author">{{quote.author.fullname}}</small>
+        <a href="/author/{% if quote.author.id %}{{quote.author.id}}{% else %}{{ quote.author_idn }}{% endif %}">(about)</a>
+        </span>
+        <div class="tags">
+            Tags:
+            <meta class="keywords" itemprop="keywords" content="change,deep-thoughts,thinking,world"> 
+            {% for tag in quote.tags %}
+            <a class="tag" href="/tag/{{ tag }}/">{{tag}}</a>
+            {% endfor %}    
+        </div>
+    </div>
+
+    {% endfor %}
+
+    <nav>
+        <ul class="pager">
+            
+            <li class="previous">
+                <a class="{% if not page_obj.has_previous %} disabled {% endif %}" 
+                   href="{% if page_obj.has_previous %} {% url 'quotes:root_paginate' page_obj.previous_page_number %} 
+                   {% else %} # 
+                   {% endif %}">
+                    <span aria-hidden="true">←</span> Previous
+                </a>
+            </li>
+            
+            <li class="next">
+                <a class="{% if not page_obj.has_next %} disabled {% endif %}" 
+                href="{% if page_obj.has_next %} {% url 'quotes:root_paginate' page_obj.next_page_number %} 
+                {% else %} # 
+                {% endif %}">Next <span aria-hidden="true">→</span></a>
+            </li>
+            
+        </ul>
+    </nav>
+    </div>
+    <div class="col-md-4 tags-box">
+        <h2>Top Ten tags</h2>
+            {% for tag in popular_tags %}
+                <span class="tag-item">
+                    <a class="tag" style="font-size: {{ forloop.counter|tag_font_size }}px" href="/tag/{{ tag.name }}/">
+                        {{ tag.name }}
+                    </a>
+                </span>
+            {% endfor %}
+    </div>
+</div>
+
+{% endblock %}

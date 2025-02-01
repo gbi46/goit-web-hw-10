@@ -1,0 +1,1329 @@
+[{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c41"
+  },
+  "quote": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
+  "tags": [
+    "change",
+    "deep-thoughts",
+    "thinking",
+    "world"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c42"
+  },
+  "quote": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+  "tags": [
+    "abilities",
+    "choices"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c43"
+  },
+  "quote": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+  "tags": [
+    "inspirational",
+    "life",
+    "live",
+    "miracle",
+    "miracles"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c44"
+  },
+  "quote": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+  "tags": [
+    "aliteracy",
+    "books",
+    "classic",
+    "humor"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87930"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c45"
+  },
+  "quote": "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",
+  "tags": [
+    "be-yourself",
+    "inspirational"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87931"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c46"
+  },
+  "quote": "Try not to become a man of success. Rather become a man of value.",
+  "tags": [
+    "adulthood",
+    "success",
+    "value"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c47"
+  },
+  "quote": "It is better to be hated for what you are than to be loved for what you are not.",
+  "tags": [
+    "life",
+    "love"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87932"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c48"
+  },
+  "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+  "tags": [
+    "edison",
+    "failure",
+    "inspirational",
+    "paraphrased"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87933"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c49"
+  },
+  "quote": "A woman is like a tea bag; you never know how strong it is until it's in hot water.",
+  "tags": [
+    "misattributed-eleanor-roosevelt"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87934"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c4a"
+  },
+  "quote": "A day without sunshine is like, you know, night.",
+  "tags": [
+    "humor",
+    "obvious",
+    "simile"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87935"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c4b"
+  },
+  "quote": "This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.",
+  "tags": [
+    "friends",
+    "heartbreak",
+    "inspirational",
+    "life",
+    "love",
+    "sisters"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87931"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c4c"
+  },
+  "quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+  "tags": [
+    "courage",
+    "friends"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c4d"
+  },
+  "quote": "If you can't explain it to a six year old, you don't understand it yourself.",
+  "tags": [
+    "simplicity",
+    "understand"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c4e"
+  },
+  "quote": "You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.",
+  "tags": [
+    "love"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87936"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c4f"
+  },
+  "quote": "I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.",
+  "tags": [
+    "fantasy"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87937"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c50"
+  },
+  "quote": "I may not have gone where I intended to go, but I think I have ended up where I needed to be.",
+  "tags": [
+    "life",
+    "navigation"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87938"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c51"
+  },
+  "quote": "The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.",
+  "tags": [
+    "activism",
+    "apathy",
+    "hate",
+    "indifference",
+    "inspirational",
+    "love",
+    "opposite",
+    "philosophy"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87939"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c52"
+  },
+  "quote": "It is not a lack of love, but a lack of friendship that makes unhappy marriages.",
+  "tags": [
+    "friendship",
+    "lack-of-friendship",
+    "lack-of-love",
+    "love",
+    "marriage",
+    "unhappy-marriage"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8793a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c53"
+  },
+  "quote": "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+  "tags": [
+    "books",
+    "contentment",
+    "friends",
+    "friendship",
+    "life"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8793b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c54"
+  },
+  "quote": "Life is what happens to us while we are making other plans.",
+  "tags": [
+    "fate",
+    "life",
+    "misattributed-john-lennon",
+    "planning",
+    "plans"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8793c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c55"
+  },
+  "quote": "I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.",
+  "tags": [
+    "love",
+    "poetry"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8793d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c56"
+  },
+  "quote": "For every minute you are angry you lose sixty seconds of happiness.",
+  "tags": [
+    "happiness"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8793e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c57"
+  },
+  "quote": "If you judge people, you have no time to love them.",
+  "tags": [
+    "attributed-no-source"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8793f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c58"
+  },
+  "quote": "Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.",
+  "tags": [
+    "humor",
+    "religion"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87940"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c59"
+  },
+  "quote": "Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.",
+  "tags": [
+    "humor"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87941"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c5a"
+  },
+  "quote": "Today you are You, that is truer than true. There is no one alive who is Youer than You.",
+  "tags": [
+    "comedy",
+    "life",
+    "yourself"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87937"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c5b"
+  },
+  "quote": "If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.",
+  "tags": [
+    "children",
+    "fairy-tales"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c5c"
+  },
+  "quote": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.",
+  "tags": [],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c5d"
+  },
+  "quote": "Logic will get you from A to Z; imagination will get you everywhere.",
+  "tags": [
+    "imagination"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c5e"
+  },
+  "quote": "One good thing about music, when it hits you, you feel no pain.",
+  "tags": [
+    "music"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87936"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c5f"
+  },
+  "quote": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+  "tags": [
+    "learning",
+    "reading",
+    "seuss"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87937"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c60"
+  },
+  "quote": "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?",
+  "tags": [
+    "dumbledore"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c61"
+  },
+  "quote": "The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.",
+  "tags": [
+    "friendship"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87936"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c62"
+  },
+  "quote": "Not all of us can do great things. But we can do small things with great love.",
+  "tags": [
+    "misattributed-to-mother-teresa",
+    "paraphrased"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8793f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c63"
+  },
+  "quote": "To the well-organized mind, death is but the next great adventure.",
+  "tags": [
+    "death",
+    "inspirational"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c64"
+  },
+  "quote": "All you need is love. But a little chocolate now and then doesn't hurt.",
+  "tags": [
+    "chocolate",
+    "food",
+    "humor"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87942"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c65"
+  },
+  "quote": "We read to know we're not alone.",
+  "tags": [
+    "misattributed-to-c-s-lewis",
+    "reading"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87943"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c66"
+  },
+  "quote": "Any fool can know. The point is to understand.",
+  "tags": [
+    "knowledge",
+    "learning",
+    "understanding",
+    "wisdom"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c67"
+  },
+  "quote": "I have always imagined that Paradise will be a kind of library.",
+  "tags": [
+    "books",
+    "library"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87944"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c68"
+  },
+  "quote": "It is never too late to be what you might have been.",
+  "tags": [
+    "inspirational"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87945"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c69"
+  },
+  "quote": "A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.",
+  "tags": [
+    "read",
+    "readers",
+    "reading",
+    "reading-books"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87946"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c6a"
+  },
+  "quote": "You can never get a cup of tea large enough or a book long enough to suit me.",
+  "tags": [
+    "books",
+    "inspirational",
+    "reading",
+    "tea"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87947"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c6b"
+  },
+  "quote": "You believe lies so you eventually learn to trust no one but yourself.",
+  "tags": [],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87931"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c6c"
+  },
+  "quote": "If you can make a woman laugh, you can make her do anything.",
+  "tags": [
+    "girls",
+    "love"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87931"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c6d"
+  },
+  "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+  "tags": [
+    "life",
+    "simile"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c6e"
+  },
+  "quote": "The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.",
+  "tags": [
+    "love"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87931"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c6f"
+  },
+  "quote": "A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.",
+  "tags": [
+    "attributed-no-source"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87931"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c70"
+  },
+  "quote": "Only in the darkness can you see the stars.",
+  "tags": [
+    "hope",
+    "inspirational"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87948"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c71"
+  },
+  "quote": "It matters not what someone is born, but what they grow to be.",
+  "tags": [
+    "dumbledore"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c72"
+  },
+  "quote": "Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.",
+  "tags": [
+    "love"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87949"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c73"
+  },
+  "quote": "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.",
+  "tags": [
+    "friendship",
+    "love"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87930"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c74"
+  },
+  "quote": "Do one thing every day that scares you.",
+  "tags": [
+    "attributed",
+    "fear",
+    "inspiration"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87934"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c75"
+  },
+  "quote": "I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.",
+  "tags": [
+    "attributed-no-source"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87931"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c76"
+  },
+  "quote": "If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.",
+  "tags": [
+    "music"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c77"
+  },
+  "quote": "If you only read the books that everyone else is reading, you can only think what everyone else is thinking.",
+  "tags": [
+    "books",
+    "thought"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8794a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c78"
+  },
+  "quote": "The difference between genius and stupidity is: genius has its limits.",
+  "tags": [
+    "misattributed-to-einstein"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8794b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c79"
+  },
+  "quote": "He's like a drug for you, Bella.",
+  "tags": [
+    "drug",
+    "romance",
+    "simile"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8794c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c7a"
+  },
+  "quote": "There is no friend as loyal as a book.",
+  "tags": [
+    "books",
+    "friends",
+    "novelist-quotes"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8794d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c7b"
+  },
+  "quote": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
+  "tags": [
+    "inspirational"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8794e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c7c"
+  },
+  "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+  "tags": [
+    "inspirational",
+    "life",
+    "yourself"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8794f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c7d"
+  },
+  "quote": "That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.",
+  "tags": [
+    "alcohol"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87950"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c7e"
+  },
+  "quote": "You don’t forget the face of the person who was your last hope.",
+  "tags": [
+    "the-hunger-games"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87951"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c7f"
+  },
+  "quote": "Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.",
+  "tags": [
+    "humor"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87951"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c80"
+  },
+  "quote": "To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.",
+  "tags": [
+    "love"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87947"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c81"
+  },
+  "quote": "Not all those who wander are lost.",
+  "tags": [
+    "bilbo",
+    "journey",
+    "lost",
+    "quest",
+    "travel",
+    "wander"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87952"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c82"
+  },
+  "quote": "Do not pity the dead, Harry. Pity the living, and, above all those who live without love.",
+  "tags": [
+    "live-death-love"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c83"
+  },
+  "quote": "There is nothing to writing. All you do is sit down at a typewriter and bleed.",
+  "tags": [
+    "good",
+    "writing"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8794d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c84"
+  },
+  "quote": "Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.",
+  "tags": [
+    "life",
+    "regrets"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8793e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c85"
+  },
+  "quote": "I have never let my schooling interfere with my education.",
+  "tags": [
+    "education"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8793b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c86"
+  },
+  "quote": "I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!",
+  "tags": [
+    "troubles"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87937"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c87"
+  },
+  "quote": "If I had a flower for every time I thought of you...I could walk through my garden forever.",
+  "tags": [
+    "friendship",
+    "love"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87953"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c88"
+  },
+  "quote": "Some people never go crazy. What truly horrible lives they must lead.",
+  "tags": [
+    "humor"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87950"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c89"
+  },
+  "quote": "The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.",
+  "tags": [
+    "humor",
+    "open-mind",
+    "thinking"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87954"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c8a"
+  },
+  "quote": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
+  "tags": [
+    "humor",
+    "philosophy"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87937"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c8b"
+  },
+  "quote": "What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.",
+  "tags": [
+    "authors",
+    "books",
+    "literature",
+    "reading",
+    "writing"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87955"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c8c"
+  },
+  "quote": "The reason I talk to myself is because I’m the only one whose answers I accept.",
+  "tags": [
+    "humor",
+    "insanity",
+    "lies",
+    "lying",
+    "self-indulgence",
+    "truth"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87956"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c8d"
+  },
+  "quote": "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.",
+  "tags": [
+    "beatles",
+    "connection",
+    "dreamers",
+    "dreaming",
+    "dreams",
+    "hope",
+    "inspirational",
+    "peace"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87957"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c8e"
+  },
+  "quote": "I am free of all prejudice. I hate everyone equally. ",
+  "tags": [
+    "humor",
+    "sinister"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87958"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c8f"
+  },
+  "quote": "The question isn't who is going to let me; it's who is going to stop me.",
+  "tags": [],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87959"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c90"
+  },
+  "quote": "′Classic′ - a book which people praise and don't read.",
+  "tags": [
+    "books",
+    "classic",
+    "reading"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8793b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c91"
+  },
+  "quote": "Anyone who has never made a mistake has never tried anything new.",
+  "tags": [
+    "mistakes"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c92"
+  },
+  "quote": "A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.",
+  "tags": [
+    "humor",
+    "love",
+    "romantic",
+    "women"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87930"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c93"
+  },
+  "quote": "Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.",
+  "tags": [
+    "integrity"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c94"
+  },
+  "quote": "I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.",
+  "tags": [
+    "books",
+    "library",
+    "reading"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87930"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c95"
+  },
+  "quote": "There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.",
+  "tags": [
+    "elizabeth-bennet",
+    "jane-austen"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87930"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c96"
+  },
+  "quote": "Some day you will be old enough to start reading fairy tales again.",
+  "tags": [
+    "age",
+    "fairytales",
+    "growing-up"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87947"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c97"
+  },
+  "quote": "We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.",
+  "tags": [
+    "god"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87947"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c98"
+  },
+  "quote": "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.",
+  "tags": [
+    "death",
+    "life"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8793b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c99"
+  },
+  "quote": "A lie can travel half way around the world while the truth is putting on its shoes.",
+  "tags": [
+    "misattributed-mark-twain",
+    "truth"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8793b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c9a"
+  },
+  "quote": "I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.",
+  "tags": [
+    "christianity",
+    "faith",
+    "religion",
+    "sun"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87947"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c9b"
+  },
+  "quote": "The truth.\" Dumbledore sighed. \"It is a beautiful and terrible thing, and should therefore be treated with great caution.",
+  "tags": [
+    "truth"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8792f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c9c"
+  },
+  "quote": "I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.",
+  "tags": [
+    "death",
+    "life"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8795a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c9d"
+  },
+  "quote": "To die will be an awfully big adventure.",
+  "tags": [
+    "adventure",
+    "love"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8795b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c9e"
+  },
+  "quote": "It takes courage to grow up and become who you really are.",
+  "tags": [
+    "courage"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8795c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3c9f"
+  },
+  "quote": "But better to get hurt by the truth than comforted with a lie.",
+  "tags": [
+    "life"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8795d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3ca0"
+  },
+  "quote": "You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.",
+  "tags": [
+    "better-life-empathy"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8795e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3ca1"
+  },
+  "quote": "You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.",
+  "tags": [
+    "books",
+    "children",
+    "difficult",
+    "grown-ups",
+    "write",
+    "writers",
+    "writing"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8795f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3ca2"
+  },
+  "quote": "Never tell the truth to people who are not worthy of it.",
+  "tags": [
+    "truth"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d8793b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3ca3"
+  },
+  "quote": "A person's a person, no matter how small.",
+  "tags": [
+    "inspirational"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87937"
+  }
+},
+{
+  "_id": {
+    "$oid": "6786225ade97073cf18d3ca4"
+  },
+  "quote": "... a mind needs books as a sword needs a whetstone, if it is to keep its edge.",
+  "tags": [
+    "books",
+    "mind"
+  ],
+  "author": {
+    "$oid": "678620a93a5c29f6b6d87946"
+  }
+}]
